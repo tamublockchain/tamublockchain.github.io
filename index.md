@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blockchains + TEEs
-subtitle: April 3rd and 4th, 2023 (Online Event)
+title: Texas A&M Blockchain Day
+subtitle: May 1, 2023
 cover-img: "/assets/img/tee.png"
 ---
 
