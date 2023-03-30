@@ -10,18 +10,18 @@
 ############################
 
 # Name of website
-title: Blockchains + X
+title: Texas A&M Blockchain Day
 
 # Your name to show in the footer
-author: Kartik Nayak
+author: Ishan Dhanani
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  Home: "https://blockchainsplusx.github.io/"
-  Register: "https://forms.gle/ECuUQDyDXqwzktXv8"
+  Home: "https://tamublockchainday.github.io/"
+  Register: "tamublockchain.xyz"
   Program: program
   #About Me: "aboutme"
   #Resources:
@@ -52,7 +52,7 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "kartik@cs.duke.edu"
+  email: "tamublock@gmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  github: daattali
@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "blockchainsplusx.github.io"
+url-pretty: "tamublockchainday.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
