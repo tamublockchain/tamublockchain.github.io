@@ -2,7 +2,7 @@
 layout: page
 title: Texas A&M Blockchain Day
 subtitle: May 1, 2023
-cover-img: "/assets/img/tee.png"
+cover-img: "/assets/img/websiteheader.png"
 ---
 
 TAMU Blockchain Day. Add text here
