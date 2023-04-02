@@ -20,7 +20,7 @@ author: Ishan Dhanani
 ###############################################
 
 navbar-links:
-  Home: "https://ishandhanani.github.io/"
+  Home: "https://tamublockchain.github.io/"
   Register: "https://forms.gle/ECuUQDyDXqwzktXv8"
   Program: program
   #About Me: "aboutme"
@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ishandhanani.github.io"
+url-pretty: "tamublockchain.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
