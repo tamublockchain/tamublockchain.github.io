@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Texas A&M Blockchain Day
+title: Inaugural Texas A&M Blockchain Day
 subtitle: May 1, 2023
 cover-img: "/assets/img/websiteheader.png"
 ---
 
-Texas A&M Blockchain Day is a recurrant one-day even that aims to bring together a community of researchers, academics, professionals, and students interested in blockchain technology. Participants will have the opportunity to listen to industry speakers and leading academics share their insights and research findings, as well as attend workshops designed to explore the practical applications of blockchain technology. This event will provide a platform for participants to network, collaborate and exchange ideas on how blockchain can be utilized to drive innovation and solve real-world problems.
+Texas A&M Blockchain Day is a recurrent one-day even that aims to bring together a community of researchers, academics, professionals, and students interested in blockchain technology. Participants will have the opportunity to listen to industry speakers and leading academics share their insights and research findings, as well as attend workshops designed to explore the practical applications of blockchain technology. This event will provide a platform for participants to network, collaborate and exchange ideas on how blockchain can be utilized to drive innovation and solve real-world problems.
     
 ## Heading 1
     
