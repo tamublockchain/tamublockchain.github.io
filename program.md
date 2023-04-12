@@ -9,10 +9,10 @@ permalink: /program
 | Monday, May 1st       |              |   |
 | ---------------------------- | ------------ | ----------- |
 | 10:00 AM - 10:30 AM | Coffee |  |
-| 10:30AM - 11:00 AM | Juan Garay, Texas A&M | [Welcome & Blockchain Warmup](#natacha-crooks)  |
+| 10:30AM - 11:00 AM | Juan Garay, Texas A&M | [Welcome & Blockchain Warmup](#juan-garay)  |
 | 11:00 AM - 12:00 PM | Oshani Serevinatne, RPI | [Empowering Decentralization through Algorand's Smart Contracts](#heidi-howard) |
 | 12:00 PM - 1:15 PM | Lunch | | 
-| 1:15 PM - 1:30 PM | Ishan Dhanani, TAMU Blockchain Club |  [??](#mic-bowman) |
+| 1:15 PM - 1:30 PM | Ishan Dhanani, TAMU Blockchain Club |  [RevPass: Revolutionizing the Sports Passes](#ishan-dhanani) |
 | 1:30 PM - 2:00 PM | Le Xie, Texas A&M | [??](#mic-bowman) |
 | 2:00 PM - 2:30 PM | Korok Ray, Texas A&M | [Banking in Bitcoin](#korok-ray) |
 | 2:30 PM - 3:00 PM | Coffee Break |  |
@@ -20,7 +20,7 @@ permalink: /program
 
 <br>
 
-### Natacha Crooks
+### Juan Garay
 
 <ul>
   <h4> In Trusted BFT components, we (mostly?) trust </h4>
@@ -44,17 +44,17 @@ In this talk, I'll consider whether it is possible to regain control over data i
   <b>Bio.</b> Heidi is a Senior Researcher in the Confidential Computing group at Microsoft Research Cambridge. Her research sits at the intersection between the theory and practice of distributed computing, with a focus on developing resilient and trustworthy distributed computer systems. Previously, she was a Research Fellow in Computer Science at Cambridge University’s Trinity Hall, an Affiliated/Visiting Researcher at VMware Research, and an Affiliated Lecturer at Cambridge University’s Department of Computer Science and Technology. She received her Ph.D. from Cambridge University in 2019 for her research on Distributed Consensus. She is best known for her work on the Paxos algorithm, and in particular, the invention of Flexible Paxos.
 </ul>
 
-### Mic Bowman
+### Ishan Dhanani
 <ul>
-<h4> Building Decentralized Trust with a Trusted Execution Environment</h4>
+<h4>RevPass - A student-led project aimed to revolutionize the Sports Pass</h4>
   </ul>
 
 <ul>
-<b>Abstract.</b> The promise of hardware-based Trusted Execution Environments (TEEs) is a place where compute can happen beyond the observation and control of hosting parties. For multiparty applications the TEE can, in theory, become the trusted third party that arbitrates shared "truth". And TEE's can provide this without the redundancy and replication required by software-only alternatives such as distributed consensus protocols. However, there are many examples show that no security technology is completely immune to attack including HW-based TEEs. If TEEs aren't "perfect", what then is their appropriate role in multi-party computations? This talk will go through some of the lessons we've learned about building robust decentralized, multi-party applications with TEEs and how to use a TEE to reduce the risk of successful attacks.
+<b>Abstract.</b> The current sports pass system at Texas A&M allows for students to sell their passes on Facebook or group chats, with no official rules or enforcement. This results in a lack of standardization in the selling price and relies solely on trust between the buyer and seller. This framework creates inequity for students who may not have equal access to all selling platforms and puts the buyer at risk of not getting a fair value. To address this, Texas A&M Blockchain developed a digital sports pass built on the blockchain that can be rented by other students. Furthermore, we've built a marketplace where students can seamlessly rent passes in a trustless environment. 
   </ul>
 
 <ul>
-<b>Bio.</b> Mic Bowman is a senior principal engineer in Intel Labs and leads the decentralized computing research group. Mic has spent over 20 years working on large-scale databases and distributed systems. Among other roles he served as a member of the Hyperledger Technical Steering Committee for several years contributing to various aspects of architecture definition and evaluation of technologies for privacy and confidentiality. He is currently working on methods for improving the security, scalability, and privacy of distributed ledgers. He received his PhD in Computer Science from the University of Arizona.
+<b>Bio.</b> Ishan Dhanani is an incoming Computer Science masters student at Columbia University and the founder of Texas A&M Blockchain. Over the last year, he has build Texas A&M's first blockchain organization and developed partnerships with companies including Avalanche, Starknet, and Polygon
   </ul>
 
 ### Matt Green
