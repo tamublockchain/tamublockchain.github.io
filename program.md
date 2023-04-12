@@ -3,31 +3,18 @@ layout: page
 permalink: /program
 ---
 
-## Program
-All times in Eastern Time. The program is conducted online on Zoom (link will be shared soon).
 
-| 3rd April           |              |
-| ------------------- | ------------ |
-| 10.00 AM - 10.15 AM | Introduction |
-| 10.15 AM - 10.45 AM | [Natacha Crooks, UC Berkeley](#natacha-crooks) |
-| 10.45 AM - 11.15 AM | [Heidi Howard, Microsoft Research](#heidi-howard) |
-| 11.15 AM - 11.45 AM | [Mic Bowman, Intel](#mic-bowman) |
-| 11.45 AM - Noon | Break | 
-| Noon - 12.30 PM | Panel |
-| 12.30 PM - 1.00 PM | [Matt Green, Johns Hopkins](#matt-green) |
-| 1.00 PM - 1.30 PM | [Jonathan Passerat-Palmbach, Flashbots](#jonathan-passerat-palmbach) | 
-
-<br>
-
-| 4th April           |              |
-| ------------------- | ------------ |
-| 10.05 AM - 10.15 AM | Introduction |
-| 10.15 AM - 10.45 AM | [Nick Hynes, Oasis Labs](#nick-hynes) |
-| 10.45 AM - 11.15 AM | [Andrew Miller, UIUC](#andrew-miller) |
-| 11.15 AM - 11.45 AM | Panel |
-| 11.45 AM - Noon | Break | 
-| Noon - 12.30 PM | [Ittay Eyal, Technion](#ittay-eyal) |
-| 12.30 PM - 1.00 PM | [Guy Zyskind, Secret Network](#guy-zyskind) |
+| Monday, May 1st   |              |   |
+| ------------------- | ------------ | ----------- |
+| 10:00 AM - 10:30 AM | Coffee |  |
+| 10:30AM - 11:00 AM | Juan Garay, Texas A&M | [Welcome & Blockchain Warmup](#natacha-crooks)  |
+| 11:00 AM - 12:00 PM | Oshani Serevinatne, RPI | [Empowering Decentralization through Algorand's Smart Contracts](#heidi-howard) |
+| 12:00 PM - 1:15 PM | Lunch | | 
+| 1:15 PM - 1:30 PM | Ishan Dhanani, TAMU Blockchain Club |  [??](#mic-bowman) |
+| 1:30 PM - 2:00 PM | Le Xie, Texas A&M | [??](#mic-bowman) |
+| 2:00 PM - 2:30 PM | Korok Ray, Texas A&M | [Banking in Bitcoin](#korok-ray) |
+| 2:30 PM - 3:00 PM | Coffee Break |  |
+| 3:00 PM - 4:00 PM | Tal Rabin, UPenn | [??](#matt-green) |  
 
 <br>
 
@@ -80,6 +67,15 @@ In this talk, I'll consider whether it is possible to regain control over data i
 
 <ul>
 <b>Bio.</b> Matthew D. Green is an Associate Professor at the Johns Hopkins University Information Security Institute. He has worked on privacy-preserving technologies and new systems for verifiable execution, and is a co-designer of the Zexe and Zcash systems.
+</ul>
+
+### Korok Ray
+<ul>
+<b> Banking in Bitcoin</b>
+</ul>
+
+<ul>
+<b>Abstract.</b> I argue that the chief function of Bitcoin will be a settlement layer between banks.  I review banking and central banking today, discuss Bitcoin in the context of banking, and speculate on opportunities for future Bitcoin development.
 </ul>
 
 ### Jonathan Passerat-Palmbach
