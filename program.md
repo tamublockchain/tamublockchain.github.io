@@ -4,8 +4,8 @@ permalink: /program
 ---
 
 
-| Monday, May 1st   |              |   |
-| ------------------- | ------------ | ----------- |
+| Monday, May 1st       |              |   |
+| ---------------------------- | ------------ | ----------- |
 | 10:00 AM - 10:30 AM | Coffee |  |
 | 10:30AM - 11:00 AM | Juan Garay, Texas A&M | [Welcome & Blockchain Warmup](#natacha-crooks)  |
 | 11:00 AM - 12:00 PM | Oshani Serevinatne, RPI | [Empowering Decentralization through Algorand's Smart Contracts](#heidi-howard) |
