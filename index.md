@@ -18,7 +18,7 @@ The Inaugural Texas A&M Blockchain Day will take place at the [Department of Com
     
 ### Speakers
 
-- [Ishan Dhanani](https://www.linkedin.com/in/ishandhanani/), Texas A&M Blockchain Club
+- [Ishan Dhanani](https://www.linkedin.com/in/ishandhanani/), Texas A&M Blockchain
 - [Juan Garay](https://jagaray.com), Department of Computer Science and Engineering, Texas A&M University 
 - [Tal Rabin](https://en.wikipedia.org/wiki/Tal_Rabin), Department of Computer and Information Science, University of Pennsylvania, and Algorand Foundation
 - [Korok Ray](https://mays.tamu.edu/directory/korok/), Mays Business School, Texas A&M University
