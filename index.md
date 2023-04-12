@@ -19,7 +19,9 @@ This recurrent event aims to bring together a community of researchers, academic
 - [Oshani Serevinatne](https://faculty.rpi.edu/oshani-seneviratne), Department of Computer Science, Rensselaer Polytechnic Institute
 - [Le Xie](https://gridx.engr.tamu.edu/), Department of Electrical and Computer Engineering, Texas A&M University
 
+### Location
 
+The Inaugural Texas A&M Blockchain Day will take place at the [Department of Computer Science and Enginerring of Texas A&M University](https://www.google.com/maps/place/Department+of+Computer+Science+%26+Engineering/@30.6160263,-96.3386016,15z/data=!4m6!3m5!1s0x86468396ffad01e7:0xcb0e43cf41903109!8m2!3d30.6160263!4d-96.3386016!16s%2Fg%2F12hqjy40d). The nearest parking garage is the [Central Campus Parking Garage (CCG](https://www.google.com/maps/place/Central+Campus+Parking+Garage+(CCG)/@30.6167129,-96.3374437,17z/data=!3m1!4b1!4m6!3m5!1s0x86468390b997fb1f:0xbfbcca6f419639e7!8m2!3d30.6167129!4d-96.3374437!16s%2Fg%2F11c7446qwd). From the CCG, the Peterson Building is a short [3-minute walk](https://www.google.com/maps/dir/Central+Campus+Parking+Garage+(CCG),+Spence+Street,+College+Station,+TX/Department+of+Computer+Science+%26+Engineering,+L.F.+Peterson+Building,+435+Nagle+St,+College+Station,+TX+77843/@30.6164207,-96.3405954,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x86468390b997fb1f:0xbfbcca6f419639e7!2m2!1d-96.3374197!2d30.6167022!1m5!1m1!1s0x86468396ffad01e7:0xcb0e43cf41903109!2m2!1d-96.3386016!2d30.6160263).
 
 ### Organizers
 
