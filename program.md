@@ -16,7 +16,7 @@ permalink: /program
 | 1:30 PM - 2:00 PM | Le Xie, Texas A&M | [Blockchain and Energy: Understanding the Impact of Cryptomining on the Electric Grid](#le-xie) |
 | 2:00 PM - 2:30 PM | Korok Ray, Texas A&M | [Banking in Bitcoin](#korok-ray) |
 | 2:30 PM - 3:00 PM | Coffee Break |  |
-| 3:00 PM - 4:00 PM | Tal Rabin, UPenn | [??](#tal-rabin) |  
+| 3:00 PM - 4:00 PM | Tal Rabin, UPenn | [TBA](#tal-rabin) |  
 
 <br>
 
@@ -78,60 +78,6 @@ This talk will provide an overview of Algorand's unique features and benefits, w
 
 <ul>
 <b>Abstract.</b> I argue that the chief function of Bitcoin will be a settlement layer between banks.  I review banking and central banking today, discuss Bitcoin in the context of banking, and speculate on opportunities for future Bitcoin development.
-</ul>
-
-### Jonathan Passerat-Palmbach
-<ul>
-<b>Privacy x MEV: mitigation, collaboration, decentralisation</b>
-</ul>
-
-<ul>
-<b>Abstract.</b> This presentation aims to discuss the utilisation of trusted execution environments (TEEs) and privacy enhancing technologies to mitigate the risks of Maximal Extractable Value (MEV). We will start by introducing MEV, highlighting the potential risks it poses to blockchains consensus. Then we will see how Flashbots proposed to handle MEV, via a suite of hosted services spanning PoW and now PoS Ethereum. Finally, we will discuss the research directions Flashbots is pursuing to address MEV through the use of TEEs, and our plans to combine them with privacy-enhancing technologies. This presentation aims to provide a comprehensive understanding of the challenges posed by MEV and give the directions we are currently following so that more collaborators can join us on this open research journey.
-</ul>
-
-<ul>
-  <b>Bio.</b> Jonathan is a senior research scientist at <a href="https://www.flashbots.net/">Flashbots</a>. He is exploring the application of Privacy Enhancing Technologies to solve hard problems such as decentralised collaborative learning and Maximum Extractable Value (MEV) in blockchains. He has grown a strong expertise in Secure Computing (Trusted Execution Environments - TEEs, FHE, ...), Federated Learning and Verifiable Computing (TEEs, Zero-Knowledge Proofs, ...). Jonathan is also a research fellow at Imperial College London (<a href="https://biomedia.doc.ic.ac.uk">BioMedIA</a>) and City, University of London (<a href="https://cit-ai.net">CitAI</a>) where he co-supervises research students on the topics Privacy-Preserving Machine Learning and Federated Learning. He formerly lead the R&D arm of ConsenSys / <a href="https://equideum.health/">Equideum Health</a>, where the team focuses on bringing together privacy-preserving machine learning and blockchains to build a new generation of healthcare systems.
-</ul>
-
-### Nick Hynes
-<ul>
-<b>A Privacy Layer for Web3 - Discover how to unlock the potential of Web3 with the Oasis Privacy Layer</b>
-</ul>
-
-<ul>
-<b>Abstract.</b> Come learn about the value of privacy in Web3 and how easy it is to add it to your dApp using the Oasis Privacy Layer, an EVM-compatible privacy solution powered by TEE where state and transactions are encrypted and visible only to the user and the contract. The talk explores the potential of the Oasis Privacy Layer, powered by Sapphire, for adding confidentiality to dApps on any EVM network. Nick will further demonstrate how this technology can help developers build privacy-focused applications on the decentralized web, discuss the challenges and opportunities in blockchain privacy and how to add confidentiality to dApps built on EVM networks within minutes.
-</ul>
-
-<ul>
-<b>Bio.</b> Nick Hynes, the Tech Lead at Oasis is working on building the privacy layer for Web3 on Sapphire, the first ever confidential EVM, along with various blockchain applications. At Oasis, Nick has worked on projects such as building the first WebAssembly blockchain runtime that allows executing confidential contracts, created an SDK for authoring them in Rust and TS, and designed and built Parcel, a private data sharing and computation platform; deployed to a wide range of beta customers including Mollie, ADP, Headspace, and Frontend. While a PhD student at Berkeley, Nick worked on secure and private AI. He also holds a M.Eng degree from MIT in EECS with a focus on AI.
-</ul>
-
-### Andrew Miller
-<ul>
-  <b><a href="https://eprint.iacr.org/2023/378"> TEE-based smart contracts: pitfalls and challenges</a></b>
-  </ul>
-  
-<ul>
-<b>Abstract.</b> I'll discuss design challenges and opportunities around TEE-based smart contracts, especially based on our recent experience of coordinated vulnerability disclosures involving access patterns and replay attacks. These are a powerful tool but not a silver bullet, and a bunch of technical debt must be repaid in order to build a secure system that relies on them.
-</ul>
-
-<ul>
-<b>Bio.</b> Andrew is an Assistant Professor at the University of Illinois, Urbana-Champaign, in Electrical and Computer Engineering and affiliate in Computer Science. He is also an Associate Director of the Initiative for Cryptocurrencies and Contracts (IC3) and a board member of the Zcash Foundation. He received his Ph.D. from the University of Maryland Cybersecurity Center.
-</ul>
-
-
-### Ittay Eyal
-
-<ul>
-<b>Teechain: A Secure Payment Network with Asynchronous Blockchain Access</b>
-</ul>
-
-<ul>
-<b>Abstract.</b> We present Teechain, the first layer-two payment network that executes off-chain transactions asynchronously with respect to the underlying blockchain. To prevent parties from misbehaving, Teechain uses treasuries, protected by hardware trusted execution environments (TEEs), to establish off-chain payment channels between parties. Treasuries maintain collateral funds and can exchange transactions efficiently and securely, without interacting with the underlying blockchain. To mitigate against treasury failures and to avoid having to trust all TEEs, Teechain replicates the state of treasuries using committee chains, a new variant of chain replication with threshold secret sharing. Teechain achieves at least a 33x higher transaction throughput than the state-of-the-art Lightning payment network. A 30-machine Teechain deployment can handle over 1 million Bitcoin transactions per second.Joint work with Joshua Lind, Oded Naor, Florian Kelbert, Emin Gun Sirer, and Peter Pietzuch. This result was first published in SOSP'19.
-</ul>
-
-<ul>
-<b>Bio.</b> Ittay Eyal is an associate prof. in the Electrical and Computer Engineering Faculty at the Technion and an associate director at the Initiative for Cryptocurrencies and Contracts (IC3). Eyal completed his PhD at the Technion, followed by a post-doctorate at Cornell University. Eyal was awarded a 2018 Alon Scholarship and a 2022 Krill Prize. His research focuses on performance and security in decentralized systems. 
 </ul>
 
 ### Tal Rabin
