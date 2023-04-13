@@ -9,11 +9,11 @@ permalink: /program
 | Monday, May 1st       |              |   |
 | ---------------------------- | ------------ | ----------- |
 | 10:00 AM - 10:30 AM | Coffee |  |
-| 10:30AM - 11:00 AM | Juan Garay, Texas A&M | [Welcome & Blockchain Warmup](#juan-garay)  |
+| 10:30AM - 11:00 AM | Juan Garay, Texas A&M | [Welcome & Blockchain Warm Up](#juan-garay)  |
 | 11:00 AM - 12:00 PM | Oshani Serevinatne, RPI | [Empowering Decentralization through Algorand's Smart Contracts](#heidi-howard) |
 | 12:00 PM - 1:15 PM | Lunch | | 
 | 1:15 PM - 1:30 PM | Ishan Dhanani, TAMU Blockchain Club |  [RevPass: Revolutionizing the Sports Passes](#ishan-dhanani) |
-| 1:30 PM - 2:00 PM | Le Xie, Texas A&M | [??](#mic-bowman) |
+| 1:30 PM - 2:00 PM | Le Xie, Texas A&M | [Blockchain and Energy: Understanding the Impact of Cryptomining on the Electric Grid](#mic-bowman) |
 | 2:00 PM - 2:30 PM | Korok Ray, Texas A&M | [Banking in Bitcoin](#korok-ray) |
 | 2:30 PM - 3:00 PM | Coffee Break |  |
 | 3:00 PM - 4:00 PM | Tal Rabin, UPenn | [??](#matt-green) |  
@@ -23,11 +23,14 @@ permalink: /program
 ### Juan Garay
 
 <ul>
-  <h4> In Trusted BFT components, we (mostly?) trust </h4>
+  <h4> Welcome & Blockchain Warm Up </h4>
   </ul>
 <ul>
-  <b>Abstract.</b> Most BFT protocols that leverage trusted components (counters or logs) do so to reduce replication from 3f+1 to 2f+1. In this talk, we identify several issues with this approach that restrict responsiveness and hinder throughput. In some settings, these protocols actually achieve worse throughput (per machine) than systems that do not make use of trusted hardware. We find instead that, to truly leverage the power of these trusted components, one needs to stick with 3f+1 replicas. In this setting, trusted hardware can be used to reduce the number of phases necessary to commit an operation or reduce communication complexity.
-  </ul>
+  <b>Abstract.</b> TBA.   </ul>
+  
+  <b>Bio.</b> Since Fall '17, Juan Garay is a full professor at Texas A&M University's Computer Science & Engineering Department. Previously, after receiving his PhD in Computer Science from Penn State, he was a postdoc at the Weizmann Institute of Science (Israel), and held research positions at the IBM T.J. Watson Research Center, Bell Labs, AT&T Labs--Research, and Yahoo Research. His research interests include both foundational and applied aspects of cryptography and information security. He is the author of over 180 published works (including articles, patents, and edited volumes) in the areas of cryptography, network security, distributed computing, and algorithms; in particular, he is credited with the first optimal and efficient Byzantine agreement protocol, the first efficient and universally composable zero-knowledge and secure multi-party computation (MPC) protocols, MPC over sparse networks, and the first formal treatment of Bitcoin. In addition, Dr. Garay has been involved in the design, analysis and implementation of a variety of secure systems, and is the recipient of a Thomas A. Edison Patent Award, two Bell Labs Teamwork Awards, an IBM Outstanding Technical Achievement Award, and an IBM Research Division Award. Dr. Garay has served on the program committees of numerous conferences and international panels---including co-chairing Crypto 2013 and 2014, the discipline's premier conference. He is a Fellow of the International Association for Cryptologic Research (IACR).
+</ul>
+
 ### Heidi Howard
 <ul>
 <h4> Confidential Consortium Framework: Building Secure Multiparty Applications in the Cloud (Without Handing Over the Keys to the Kingdom!) </h4>
