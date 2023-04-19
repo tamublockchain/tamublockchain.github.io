@@ -91,5 +91,9 @@ This talk will provide an overview of Algorand's unique features and benefits, w
 </ul>
 
 <ul>
-<b>Bio.</b> Tal Rabin is a computer scientist and Professor of Computer and Information Science at the University of Pennsylvania. She was previously the head of Research at the Algorand Foundation and the head of the cryptography research group at IBM's Thomas J. Watson Research Center.
+<b>Bio.</b> Tal Rabin is a Rachleff Family Professor of Computer Science at the University of Pennsylvania. Prior to joining UPenn she has been the head of research and Algorand Foundation and prior to that she had been at IBM Research for 23 years as a Distinguished Research Staff Member and the manager of the Cryptographic Research Group.  She received her PhD from the Hebrew University in 1995. 
+
+Tal’s research focuses on cryptography and, more specifically, on secure multiparty computation, threshold cryptography, and proactive security and recently adapting these technologies to the blockchain environment. Her works have been instrumental in forming these areas.  She has served as the Program and General Chair of the leading cryptography conferences and as an editor of the Journal of Cryptology.   She has initiated and organizes the Women in Theory Workshop, a biennial event for graduate students in Theory of Computer Science. Tal currently serves as the chair of the ACM SIGACT Executive Board.
+
+Tal is an ACM Fellow, an IACR (International Association of Cryptologic Research) Fellow and member of the American Academy of Arts and Sciences. Tal’s work won the 30-year test of time award at STOC. She is the 2019 recipient of the RSA Award for Excellence in the Field of Mathematics. She was named by Forbes in 2018 as one of the Top 50 Women in Tech in the world. In 2014 Tal won the Anita Borg Women of Vision Award winner for Innovation and was ranked by Business Insider as the #4 on the 22 Most Powerful Women Engineers.
 </ul>
