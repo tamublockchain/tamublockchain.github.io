@@ -13,7 +13,7 @@ permalink: /program
 | 11:00 AM - 11:30 PM | Le Xie, Texas A&M | [Blockchain and Energy: Understanding the Impact of Cryptomining on the Electric Grid](#le-xie) |
 | 11:30 PM - 12:00 PM | Korok Ray, Texas A&M | [Banking in Bitcoin](#korok-ray) |
 | 12:00 PM - 1:15 PM | Lunch (provided) | | 
-| 1:15 PM - 2:15 PM | IOshani Serevinatne, RPI | [Empowering Decentralization through Algorand's Smart Contracts](#oshani-serevinatne) |
+| 1:15 PM - 2:15 PM | IOshani Seneviratne, RPI | [Empowering Decentralization through Algorand's Smart Contracts](#oshani-seneviratne) |
 | 2:15 PM - 2:30 PM | Ishan Dhanani, TAMU Blockchain Club |  [RevPass: Revolutionizing the Sports Passes](#ishan-dhanani) |
 | 2:30 PM - 3:00 PM | Coffee Break |  |
 | 3:00 PM - 4:00 PM | Tal Rabin, UPenn | [TBA](#tal-rabin) |  
