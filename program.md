@@ -81,6 +81,19 @@ This talk will provide an overview of Algorand's unique features and benefits, w
 <b>Abstract.</b> I argue that the chief function of Bitcoin will be a settlement layer between banks.  I review banking and central banking today, discuss Bitcoin in the context of banking, and speculate on opportunities for future Bitcoin development.
 </ul>
 
+<ul>
+<b>Bio.</b> Korok Ray is an Associate Professor at the Mays Business School of Texas A&M University, and Director of the Mays Innovation Research Center.  He is a labor economist who researches the future of work. In particular, he investigates how computer science and machine learning can create better electronic labor markets that will become ever more common in a networked society.
+
+<br>
+
+Korok’s core area of research is performance measurement: the study of incentives, risk/reward, and compensation for human performance. This application includes executives, chief financial officers, financial traders, farmers, doctors, teachers, rank and file employees, bankers, and even athletes. His research seeks to create economic models of human behavior and to design incentive systems to achieve better outcomes for all. His tools are economic theory, data science, and some small doses of artificial intelligence.
+
+<br>
+
+Korok earned a BS in mathematics from the University of Chicago and a PhD in economics from Stanford University. He has taught at the University of Chicago and Georgetown University, as well as Texas A&M University.  He also served on the Council of Economic Advisers of the White House from 2007 to 2009 during the historic financial crisis.
+
+</ul> 
+
 ### Tal Rabin
 
 <ul>
