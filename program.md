@@ -107,6 +107,10 @@ Korok earned a BS in mathematics from the University of Chicago and a PhD in eco
 
 We refer to this as the You-Only-Speak-Once (YOSO) property, and initiate the formal study of it within a new model that we call the YOSO model. Our model is centered around the notion of roles, which are stateless parties that can only send a single message. We describe several techniques for achieving YOSO MPC, both computational and information theoretic.
 
+<br>
+
+This is joint work with Craig Gentry, Shai Halevi, Hugo Krawczyk, Bernardo Magri, Jesper Buus Nielsen and Sophia Yakoubov
+
 </ul>
 
 <ul>
