@@ -16,7 +16,7 @@ permalink: /program
 | 1:15 PM - 2:15 PM | Oshani Seneviratne, RPI | [Empowering Decentralization through Algorand's Smart Contracts](#oshani-seneviratne) |
 | 2:15 PM - 2:30 PM | Ishan Dhanani, TAMU Blockchain Club |  [RevPass: Revolutionizing the Sports Passes](#ishan-dhanani) |
 | 2:30 PM - 3:00 PM | Coffee Break |  |
-| 3:00 PM - 4:00 PM | Tal Rabin, UPenn | [TBA](#tal-rabin) |  
+| 3:00 PM - 4:00 PM | Tal Rabin, UPenn | [YOSO: You Only Speak Once -- Secure MPC with Stateless Ephemeral Roles](#tal-rabin) |  
 
 
 <br>
@@ -97,11 +97,16 @@ Korok earned a BS in mathematics from the University of Chicago and a PhD in eco
 ### Tal Rabin
 
 <ul>
-<b>TBA</b>
+<b>YOSO: You Only Speak Once -- Secure MPC with Stateless Ephemeral Roles</b>
 </ul>
 
 <ul>
-<b>Abstract.</b> TBA.
+<b>Abstract.</b> The inherent difficulty of maintaining stateful environments over long periods of time gave rise to the paradigm of server-less computing, where mostly-stateless components are deployed on demand to handle computation tasks, and are teared down once their task is complete. Server-less architecture could offer the added benefit of improved resistance to targeted denial-of-service attacks, by hiding from the attacker the physical machines involved in the protocol until after they complete their work. Realizing such protection, however, requires that the protocol only uses stateless parties, where each party sends only one message and never needs to speaks again. Perhaps the most famous example of this style of protocols is the Nakamoto consensus protocol used in Bitcoin: A peer can win the right to produce the next block by running a local lottery (mining), all while staying covert. Once the right has been won, it is executed by sending a single message. After that, the physical entity never needs to send more messages.
+
+<br>
+
+We refer to this as the You-Only-Speak-Once (YOSO) property, and initiate the formal study of it within a new model that we call the YOSO model. Our model is centered around the notion of roles, which are stateless parties that can only send a single message. We describe several techniques for achieving YOSO MPC, both computational and information theoretic.
+
 </ul>
 
 <ul>
