@@ -12,8 +12,6 @@ This recurrent event aims to bring together a community of researchers, academic
 Attendance to the event was free, but we asked participants to register. 
 <!-- [register](https://forms.gle/NztivVBvVWZFtMV79). -->
 
-<br>
-
 <img src="/assets/img/inaugural-event-050123.jpg">
 
 
