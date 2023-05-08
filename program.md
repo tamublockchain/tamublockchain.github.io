@@ -54,6 +54,8 @@ This talk will provide an overview of Algorand's unique features and benefits, w
 <ul>
 <b>Abstract.</b> The current sports pass system at Texas A&M allows for students to sell their passes on Facebook or group chats, with no official rules or enforcement. This results in a lack of standardization in the selling price and relies solely on trust between the buyer and seller. This creates inequity for students who may not have equal access to all selling platforms and puts the buyer at risk of not getting a fair value. To address this, Texas A&M Blockchain developed a digital sports pass built on the blockchain that can be rented by other students. Furthermore, we've built a marketplace where students can seamlessly rent passes in a trustless environment. We will discuss the development of this project, its features, and a long-term implementation roadmap for the University.
   </ul>
+  
+  <ul> <a href="/assets/slides/RevPass pitch deck-2.pdf">Slides.</a> </ul>
 
 <ul>
 <b>Bio.</b> Ishan Dhanani is an incoming Computer Science masters student at Columbia University and the founder of Texas A&M Blockchain. Over the last year, he has build Texas A&M's first blockchain organization and developed partnerships with companies including Avalanche, Starknet, and Polygon
