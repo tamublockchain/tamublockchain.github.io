@@ -9,7 +9,8 @@ The Texas A&M Blockchain Day event is part of [MEGA-ACE -- Multidisciplinary Edu
 
 This recurrent event aims to bring together a community of researchers, academics, professionals, and students interested in blockchain technology. Participants will have the opportunity to listen to leading academics and industry speakers share their insights and research findings relating to blockchain technology. This event will provide a platform for participants to network, collaborate and exchange ideas on how the technology can be utilized to drive innovation and solve real-world problems.
 
-Attendance to the event is free, but we ask participants to [register](https://forms.gle/NztivVBvVWZFtMV79).
+Attendance to the event was free, but we asked participants to register. 
+<!-- [register](https://forms.gle/NztivVBvVWZFtMV79). -->
 
 ### Location
 
