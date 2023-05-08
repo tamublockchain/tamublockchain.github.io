@@ -29,6 +29,8 @@ permalink: /program
 <ul>
   <b>Abstract.</b> Introducing a new paradigm for decentralization, blockchains have ignited much excitement, for both enabling novel financial instruments and applications as well as for offering alternative approaches for solving fundamental problems in fault-tolerant distributed computing and cryptography.  In this presentation I will overview the basic technology and methods blockchains are based on, laying the ground for the rest of the program. </ul>
   
+  <ul> <a href="/assets/slides/Welcome & Blockchain Warm-Up_0523_Public.pdf"><b>Slides.</b></a> </ul>
+  
   <ul>
   <b>Bio.</b> Since Fall '17, Juan Garay is a full professor at Texas A&M University's Computer Science & Engineering Department. Previously, after receiving his PhD in Computer Science from Penn State, he was a postdoc at the Weizmann Institute of Science (Israel), and held research positions at the IBM T.J. Watson Research Center, Bell Labs, AT&T Labs--Research, and Yahoo Research. His research interests include both foundational and applied aspects of cryptography and information security. He is the author of over 180 published works (including articles, patents, and edited volumes) in the areas of cryptography, network security, distributed computing, and algorithms; in particular, he is credited with the first optimal and efficient Byzantine agreement protocol, the first efficient and universally composable zero-knowledge and secure multi-party computation (MPC) protocols, MPC over sparse networks, and the first formal treatment of Bitcoin. In addition, Dr. Garay has been involved in the design, analysis and implementation of a variety of secure systems, and is the recipient of a Thomas A. Edison Patent Award, two Bell Labs Teamwork Awards, an IBM Outstanding Technical Achievement Award, and an IBM Research Division Award. Dr. Garay has served on the program committees of numerous conferences and international panels---including co-chairing Crypto 2013 and 2014, the discipline's premier conference. He is a Fellow of the International Association for Cryptologic Research (IACR).
 </ul>
@@ -41,6 +43,8 @@ permalink: /program
   <b>Abstract.</b> Algorand is a high-performing blockchain platform that is well-suited for creating decentralized applications (dApps) that are scalable and efficient.
 This talk will provide an overview of Algorand's unique features and benefits, with a focus on smart contracts. We will discuss how Algorand's blockchain technology enables decentralized applications that can streamline complex transactions and provide secure, transparent, and verifiable solutions. We will delve into Transaction Execution Approval Language (TEAL), state proofs, Algorand Standard Assets (ASAs), and atomic transfers. We will also discuss other topics, such as decentralized identities, decentralized knowledge management, and the application of useful AI technologies in developing the next generation of decentralized applications using Algorand.
 </ul>
+
+<ul> <a href="/assets/slides/TAMU-Smart-Contracts.pdf"><b>Slides.</b></a> </ul>
 
 <ul>
   <b>Bio.</b> Oshani Seneviratne is the Associate Director of the Tetherless World Constellation and an Assistant Professor in Computer Science. She was previously the Director of Health Data Research at the Rensselaer Institute for Data Exploration and Applications. Oshani obtained her S.M. and Ph.D. degrees in Computer Science from the Massachusetts Institute of Technology (MIT) under the supervision of Sir Tim Berners-Lee, the inventor of the World Wide Web. Before Rensselaer, Oshani worked at Oracle, specializing in knowledge representation, provenance, and healthcare-related research. Her research interests span data integration in knowledge graphs, artificial intelligence, decentralized systems (web and blockchain), and health informatics. At MIT, Oshani conducted research on Accountable Systems for the Web. As part of her Ph.D. at MIT, Oshani developed a novel web protocol called HyperText Transfer Protocol with Accountability.
@@ -82,6 +86,9 @@ This talk will provide an overview of Algorand's unique features and benefits, w
 <ul>
 <b>Abstract.</b> I argue that the chief function of Bitcoin will be a settlement layer between banks.  I review banking and central banking today, discuss Bitcoin in the context of banking, and speculate on opportunities for future Bitcoin development.
 </ul>
+
+<ul> <a href="/assets/slides/BIB v0.1.pdf"><b>Slides.</b></a> </ul>
+
 
 <ul>
 <b>Bio.</b> Korok Ray is an Associate Professor at the Mays Business School of Texas A&M University, and Director of the Mays Innovation Research Center.  He is a labor economist who researches the future of work. In particular, he investigates how computer science and machine learning can create better electronic labor markets that will become ever more common in a networked society.
